@@ -39,16 +39,16 @@
 
 ## 📸 Screenshots
 
-![Screenshot 1](./assets/1.png)  
-![Screenshot 2](./assets/10.png)  
-![Screenshot 3](./assets/2.png)  
-![Screenshot 4](./assets/3.png)  
-![Screenshot 5](./assets/4.png)  
-![Screenshot 6](./assets/5.png)  
-![Screenshot 7](./assets/6.png)  
-![Screenshot 8](./assets/7.png)  
-![Screenshot 9](./assets/8.png)  
-![Screenshot 10](./assets/9.png)
+![Screenshot 1](./src/assets/1.png)  
+![Screenshot 3](./src/assets/2.png)  
+![Screenshot 4](./src/assets/3.png)  
+![Screenshot 5](./src/assets/4.png)  
+![Screenshot 6](./src/assets/5.png)  
+![Screenshot 7](./src/assets/6.png)  
+![Screenshot 8](./src/assets/7.png)  
+![Screenshot 9](./src/assets/8.png)  
+![Screenshot 10](./src/assets/9.png)
+![Screenshot 2](./src/assets/10.png)  
 
 ---
 
